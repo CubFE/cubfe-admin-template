@@ -13,7 +13,7 @@
                 <div class="h-full bg-stone-100 dark:bg-dark-main-bg text-slate-400 lg:py-6 lg:px-6 sm:px-4 sm:py-4">
                     <!-- Main area -->
                     <div :class="[widthMode == 'fluid' ? `w-full` : 'max-w-7xl mx-auto']">
-                        <span class="sm:text-red-500 md:text-blue-500 lg:text-green-500 xl:text-orange-500">{{ deskTopSidebarOpen ? 'Sidebar Open' : 'Sidebar Close'}}</span>
+                        <!-- <span class="sm:text-red-500 md:text-blue-500 lg:text-green-500 xl:text-orange-500">{{ deskTopSidebarOpen ? 'Sidebar Open' : 'Sidebar Close'}}</span> -->
                         <router-view></router-view>
                     </div>
                 </div>

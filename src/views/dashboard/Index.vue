@@ -4,7 +4,6 @@
             <div>
                 <div class="relative">
                     <img class="h-32 w-full object-cover lg:h-36" :src="profile.backgroundImage" alt="" />
-                    <div class="absolute top-4 right-0 rounded-s-lg p-2 bg-teal-500 text-white text-sm px-4">您已入职 1243 天</div>
                 </div>
             </div>
             <div class="relative mx-auto px-4 sm:px-6 2xl:px-24 mb-8">

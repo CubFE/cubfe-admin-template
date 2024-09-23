@@ -9,7 +9,7 @@
             <span class="sr-only">View notifications</span>
             <BellIcon class="h-6 w-6" aria-hidden="true" />
         </div>
-        <TransitionRoot as="template" :show="isOpen">
+        <!-- <TransitionRoot as="template" :show="isOpen">
             <Dialog as="div" class="relative z-10" @close="isOpen = false">
             <div class="fixed inset-0" />
 
@@ -83,7 +83,7 @@
                 </div>
             </div>
             </Dialog>
-        </TransitionRoot>
+        </TransitionRoot> -->
     </div>
 </template>
 <script lang="ts">
