@@ -1,0 +1,1 @@
+import{_ as t,x as o,o as s,E as a,D as c,J as n}from"./index-mwEaZC9P.js";const r={};function _(f,l){const e=o("H2");return s(),a(e,null,{default:c(()=>[n("Charts")]),_:1})}const x=t(r,[["render",_]]);export{x as default};

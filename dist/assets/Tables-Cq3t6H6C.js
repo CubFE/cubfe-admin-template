@@ -1,0 +1,1 @@
+import{_ as o,x as t,o as s,E as a,D as c,J as n}from"./index-mwEaZC9P.js";const r={};function _(l,f){const e=t("H2");return s(),a(e,null,{default:c(()=>[n("Tables")]),_:1})}const x=o(r,[["render",_]]);export{x as default};

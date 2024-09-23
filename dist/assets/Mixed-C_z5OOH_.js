@@ -1,0 +1,1 @@
+import{_ as o,x as t,o as c,E as n,D as s,J as a}from"./index-mwEaZC9P.js";const r={};function _(x,d){const e=t("H2");return c(),n(e,null,{default:s(()=>[a("Mixed")]),_:1})}const l=o(r,[["render",_]]);export{l as default};

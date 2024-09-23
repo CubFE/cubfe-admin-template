@@ -1,0 +1,1 @@
+import{_ as o,x as t,o as s,E as c,D as n,J as a}from"./index-mwEaZC9P.js";const r={};function _(d,f){const e=t("H2");return s(),c(e,null,{default:n(()=>[a("Feeds")]),_:1})}const p=o(r,[["render",_]]);export{p as default};
